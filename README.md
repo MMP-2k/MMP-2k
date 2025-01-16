@@ -1,14 +1,7 @@
 # 🌟 [MMP-2K: A BENCHMARK MULTI-LABELED MACRO PHOTOGRAPHY IMAGE QUALITY ASSESSMENT DATABASE] 🌟
 
----
+#### 🌐 [**Supplementary document**](https://github.com/MMP-2k/MMP-2k/blob/main/supplementary.md) 
 
-## 🌐 **Content**
-- ✨ **Overview**: Research and contributions.
-- 📖 **Showcase**: Example images in the MMP-2k database.
-- 🚀  **Download**: Design details and usage instructions.
-- 🔜 **TODO**: Upcoming changes.
-
----
 ## ✨**Overview**
 #### 📚 Official Repository for:
  MMP-2K: A BENCHMARK MULTI-LABELED MACRO PHOTOGRAPHY IMAGE QUALITY ASSESSMENT DATABASE  
@@ -16,12 +9,18 @@
 #### ✒️ **Authors**  
 ##### TO BE RELEASED
 
-#### 🌐 [**Supplementary document**](https://github.com/MMP-2k/MMP-2k/blob/main/supplementary.md) 
-
 This paper is submitted to [IEEE International Conference on Image Processing, IEEE ICIP 2025](https://2025.ieeeicip.org/).
 
 
 ***MMP-2k*** is a novel benchmark Image Quality Assessment (IQA) database for Macro Photograph (MP). Each image within MMP-2k has a MOS and a quality report consisting of an overall quality description and distortion annotations.
+
+---
+
+## 🌐 **Content**
+- ✨ **Overview**: Research and contributions.
+- 📖 **Showcase**: Example images in the MMP-2k database.
+- 🚀  **Download**: Design details and usage instructions.
+- 🔜 **TODO**: Upcoming changes.
 
 ---
 
