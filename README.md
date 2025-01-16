@@ -14,6 +14,7 @@
  MMP-2K: A BENCHMARK MULTI-LABELED MACRO PHOTOGRAPHY IMAGE QUALITY ASSESSMENT DATABASE  
 
 #### ✒️ **Authors**  
+##### TO BE RELEASED
 
 
 This paper is submitted to [IEEE International Conference on Image Processing, IEEE ICIP 2025](https://2025.ieeeicip.org/).
@@ -31,6 +32,12 @@ This paper is submitted to [IEEE International Conference on Image Processing, I
 ## 🚀 **Download**
 #### Option1: Clone the repository.
 #### Option2: Download the MMP-2k database from [huggingface]()
+
+---
+
+## 🔜 **TODO**
+#### ~~Release samples~~
+#### Release whole MMP-2k with MOSs and quality reports
 
 ---
 📬 Contact
