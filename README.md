@@ -16,7 +16,7 @@
 #### ✒️ **Authors**  
 ##### TO BE RELEASED
 
-#### 🌐 [**Supplementary document**]() 
+#### 🌐 [**Supplementary document**](https://github.com/MMP-2k/MMP-2k/blob/main/supplementary.md) 
 
 This paper is submitted to [IEEE International Conference on Image Processing, IEEE ICIP 2025](https://2025.ieeeicip.org/).
 
