@@ -16,6 +16,7 @@
 #### ✒️ **Authors**  
 ##### TO BE RELEASED
 
+#### 🌐 [**Supplementary document**]() 
 
 This paper is submitted to [IEEE International Conference on Image Processing, IEEE ICIP 2025](https://2025.ieeeicip.org/).
 
@@ -24,7 +25,7 @@ This paper is submitted to [IEEE International Conference on Image Processing, I
 
 ---
 
-## 📖 **Shwocases**
+## 📖 **Showcases**
 
 ![A sample image from MMP-2k](./SampleImage/sample1.png "Optional Title")
 ---
