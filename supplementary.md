@@ -30,7 +30,7 @@ Creator:
 
 ## Data Access
 ### Access Link
-The dataset is available for download at: [Huggingface](),[Github](https://github.com/MMP-2k/MMP-2k). 
+The database is available for download at: [Huggingface](),[Github](https://github.com/MMP-2k/MMP-2k). 
 
 ### Citation
 Please cite if using the dataset.
@@ -48,8 +48,8 @@ MMP-2k is a benchmark dataset containing 2,000 in-the-wild MPs. Each MP within M
 
 MMP-2k dataset contains:
 1. A MOS.csv file in which each image id is associated with 17 perceptual ratings from assessors and a MOS value.
-2. A directory containing 2,000 MPs with the resolution of 512$\times$384 (horizontal) or 384$\times$512 (vertical).
-3. A directory containing 2,000 MPs with the resolution of 1024$\times$768 (horizontal) or 768$\times$1024 (vertical).
+2. A directory containing 2,000 MPs with the resolution of 512x384 (horizontal) or 384x512 (vertical).
+3. A directory containing 2,000 MPs with the resolution of 1024x768 (horizontal) or 768x1024 (vertical).
 
 ### Structure of MOS.csv file
 | Image ID   | Perceptual Rating 1 | Perceptual Rating 2 | --- | --- | Perceptual Rating 17 | MOS  |
