@@ -19,13 +19,13 @@
 This paper is submitted to [IEEE International Conference on Image Processing, IEEE ICIP 2025](https://2025.ieeeicip.org/).
 
 
-***MMP-2k*** is a novel benchmark Image Quality Assessment (IQA) database for Macro Photograph (MP). Each image within MMP-2k has a quality report consisting of a rating and distortion labels.
+***MMP-2k*** is a novel benchmark Image Quality Assessment (IQA) database for Macro Photograph (MP). Each image within MMP-2k has a MOS and a quality report consisting of an overall quality description and distortion annotations.
 
 ---
 
 ## 📖 **Shwocases**
 
-![A sample image from MMP-2k](./SampleImages/sample1.png "Optional Title")
+![A sample image from MMP-2k](./SampleImage/sample1.png "Optional Title")
 ---
 
 ## 🚀 **Download**
