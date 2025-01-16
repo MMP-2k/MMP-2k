@@ -1,16 +1,49 @@
-## Hi there 👋
+# 🌟 [MMP-2K: A BENCHMARK MULTI-LABELED MACRO PHOTOGRAPHY IMAGE QUALITY ASSESSMENT DATABASE] 🌟
 
-<!--
-**MMP-2k/MMP-2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌐 **Content**
+- ✨ **Overview**: Research and contributions.
+- 📖 **Showcase**: Example images in the MMP-2k database.
+- 🚀  **Download**: Design details and usage instructions.
+- 🔜 **TODO**: Upcoming changes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## ✨**Overview**
+#### 📚 Official Repository for:
+ MMP-2K: A BENCHMARK MULTI-LABELED MACRO PHOTOGRAPHY IMAGE QUALITY ASSESSMENT DATABASE  
+
+#### ✒️ **Authors**  
+
+
+This paper is submitted to [IEEE International Conference on Image Processing, IEEE ICIP 2025](https://2025.ieeeicip.org/).
+
+
+***MMP-2k*** is a novel benchmark Image Quality Assessment (IQA) database for Macro Photograph (MP). Each image within MMP-2k has a quality report consisting of a rating and distortion labels.
+
+---
+
+## 📖 **Shwocases**
+
+![A sample image from MMP-2k](./SampleImages/sample1.png "Optional Title")
+---
+
+## 🚀 **Download**
+#### Option1: Clone the repository.
+#### Option2: Download the MMP-2k database from [huggingface]()
+
+---
+📬 Contact
+For questions, feel free to contact us at this email:
+Thanks for visiting! If you find this project helpful, consider giving it a ⭐ and cite!
+BieTex:
+
+---
+This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+You are free to share and adapt this dataset, provided that you give appropriate credit, use it only for non-commercial purposes, and distribute your contributions under the same license.
+
+License details: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Attribution: [MMP-2k] ([]).
+
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)  
+[![Stars](https://img.shields.io/github/stars/MMP-2k/MMP-2k.svg?style=social)](https://github.com/Future-IQA/MMP-2k)
