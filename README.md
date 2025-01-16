@@ -37,7 +37,7 @@ This paper is submitted to [IEEE International Conference on Image Processing, I
 
 ## 🔜 **TODO**
 #### ~~Release samples~~
-#### Release whole MMP-2k with MOSs and quality reports
+#### Release the whole MMP-2k with MOSs and quality reports
 
 ---
 📬 Contact
