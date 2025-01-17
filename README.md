@@ -24,6 +24,7 @@ This paper is submitted to [IEEE International Conference on Image Processing, I
 - 📖 **Showcase**: Example images in the MMP-2k database.
 - 🚀  **Download**: Design details and usage instructions.
 - 🔜 **TODO**: Upcoming changes.
+- 👀 **Acknowledgement**: More things you need to know.
 
 ---
 
@@ -45,17 +46,17 @@ This paper is submitted to [IEEE International Conference on Image Processing, I
 #### Release the MMP-2k with MOSs and quality reports on huggingface and github
 
 ---
+## **Acknowledgement**
 📬 Contact
 For questions, feel free to contact us at this email:
 Thanks for visiting! If you find this project helpful, consider giving it a ⭐ and cite!
 BieTex:
 
----
 This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
 You are free to share and adapt this dataset, provided that you give appropriate credit, use it only for non-commercial purposes, and distribute your contributions under the same license.
 
 License details: https://creativecommons.org/licenses/by-nc-sa/4.0/
-Attribution: [MMP-2k] ([]).
+Attribution: [MMP-2k].
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)  
 [![Stars](https://img.shields.io/github/stars/MMP-2k/MMP-2k.svg?style=social)](https://github.com/MMP-2k/MMP-2k)
