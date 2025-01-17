@@ -39,8 +39,10 @@ This paper is submitted to [IEEE International Conference on Image Processing, I
 ---
 
 ## 🔜 **TODO**
-#### ~~Release samples~~
-#### Release the whole MMP-2k with MOSs and quality reports
+#### ~~Build offical github repository~~
+#### ~~Release samples on github repository~~
+#### ~~Release samples on huggingface~~
+#### Release the MMP-2k with MOSs and quality reports on huggingface and github
 
 ---
 📬 Contact
