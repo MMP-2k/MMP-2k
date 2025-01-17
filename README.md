@@ -21,7 +21,6 @@ This paper is submitted to [IEEE International Conference on Image Processing, I
 ---
 
 ## 🌐 **Content**
-- ✨ **Overview**: Research and contributions.
 - 📖 **Showcase**: Example images in the MMP-2k database.
 - 🚀  **Download**: Design details and usage instructions.
 - 🔜 **TODO**: Upcoming changes.
