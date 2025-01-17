@@ -1,8 +1,8 @@
 # 🌟 [MMP-2K: A BENCHMARK MULTI-LABELED MACRO PHOTOGRAPHY IMAGE QUALITY ASSESSMENT DATABASE] 🌟
 
 ---
-
-## > [!TIP] [**Supplementary document**](https://github.com/MMP-2k/MMP-2k/blob/main/supplementary.md) 
+>[!TIP]
+##  [**Supplementary document**](https://github.com/MMP-2k/MMP-2k/blob/main/supplementary.md) 
 
 ---
 
