@@ -2,7 +2,7 @@
 
 ---
 
-## 💌 [**Supplementary document**](https://github.com/MMP-2k/MMP-2k/blob/main/supplementary.md) 💌
+# 💌 [**Supplementary document**](https://github.com/MMP-2k/MMP-2k/blob/main/supplementary.md) 💌
 
 ---
 
