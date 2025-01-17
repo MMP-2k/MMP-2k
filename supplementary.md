@@ -40,7 +40,7 @@ Please cite if using the dataset.
 
 ## Dataset Detail
 - **Title**: MMP-2k
-- **Description**: A benchmark multi-labled macro photograph (MP) dataset
+- **Description**: A benchmark multi-labled macro photography (MP) database
 - **Date of Release**: 23rd, Jan, 2025
 
 ### Summary
