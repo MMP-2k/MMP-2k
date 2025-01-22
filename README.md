@@ -42,13 +42,12 @@ This paper is submitted to [IEEE International Conference on Image Processing, I
   </tr>
   <tr>
     <td>
-      <img src="./SampleImage/973.jpg" alt="Image 2" width="100%" />
+      <img src="./SampleImage/109.jpg" alt="Image 2" width="100%" />
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
-      <p><b>MOS:</b> <span style="color: orange;">66.18</span></p>
+      <p><b>MOS:</b> <span style="color: orange;">69.12</span></p>
       <p>The image is <span style="color: green;">good</span> in quality.</p>
-      <p>There is <span style="color: blue;">mild out of focus</span> in the center.</p>
-      <p>There is <span style="color: purple;">mild overexposure</span> in the entire image.</p>
+      <p>There is <span style="color: blue;">medium out of focus</span> in the center.</p>
     </td>
   </tr>
   <tr>
@@ -64,14 +63,14 @@ This paper is submitted to [IEEE International Conference on Image Processing, I
   </tr>
   <tr>
     <td>
-      <img src="./SampleImage/1597.jpg" alt="Image 4" width="100%" />
+      <img src="./SampleImage/1155.jpg" alt="Image 4" width="100%" />
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
-      <p><b>MOS:</b> <span style="color: red;">35.29</span></p>
+      <p><b>MOS:</b> <span style="color: red;">36.76</span></p>
       <p>The image is <span style="color: orange;">poor</span> in quality.</p>
-      <p>There is <span style="color: blue;">mild motion blur</span> in the center left.</p>
-      <p>There is <span style="color: purple;">mild out of focus</span> in the center.</p>
-      <p>There is <span style="color: blue;">medium motion blur</span> in the center.</p>
+      <p>There is <span style="color: blue;">mild out of focus</span> in the center.</p>
+       <p>There is <span style="color: blue;">medium out of focus</span> in the bottom.</p>
+      <p>There is <span style="color: purple;">mild overexposure</span> in the center.</p>
     </td>
   </tr>
   <tr>
