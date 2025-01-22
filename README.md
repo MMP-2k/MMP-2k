@@ -89,7 +89,10 @@ This paper is submitted to [IEEE International Conference on Image Processing, I
 
 
 ## 🚀 **Download**
-#### Download the MMP-2k database from [huggingface](https://huggingface.co/datasets/MMP-2k/MMP-2k)
+
+#### Option 1: Download the MMP-2k database from [GitHub Releases v1.0.0](https://github.com/MMP-2k/MMP-2k/releases/tag/v1.0.0).
+
+#### Option 2: Download the MMP-2k database from [Hugging Face](https://huggingface.co/datasets/MMP-2k/MMP-2k).
 
 ---
 
