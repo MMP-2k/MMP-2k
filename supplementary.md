@@ -52,8 +52,8 @@ MMP-2k dataset contains:
 3. A directory containing 2,000 MPs with the resolution of 512x384 (horizontal) or 384x512 (vertical).
 4. A directory containing 2,000 MPs with the resolution of 1024x768 (horizontal) or 768x1024 (vertical).
 
-### Structure of MOS.csv file
-| Image ID   | Rating1 | rating2 | --- | --- | Rating17 | MOS  |Distortion annotations| Quality report|
+### Structure of metadata.csv file
+| file_name  | Rating1 | rating2 | --- | --- | Rating17 | MOS  |Distortion annotations| Quality report|
 |------------|---------------------|---------------------|-----|-----|-----------------------|------|----|---|
 | 1.jpg     |    *             |        *          | --- | --- |       *           |  * |* | *|
 | 2.jpg     |   *             |          *       | --- | --- |         *         |*   | *| *|
