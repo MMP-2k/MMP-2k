@@ -47,7 +47,7 @@ Please cite if using the dataset.
 MMP-2k is a benchmark dataset containing 2,000 in-the-wild MPs. Each MP within MMP-2k is attached with a quality MOSs, a quality report consists of an overall quality description and distortion annotations.
 
 MMP-2k dataset contains:
-1. A *metadata.csv* file in which each image id is associated with 17 perceptual ratings from assessors, a MOS value, distortion annotations, and a quality report. 
+1. A *MMP-2k.csv* file in which each image id is associated with 17 perceptual ratings from assessors, a MOS value, distortion annotations, and a quality report. 
 2. A *image* directory containing 2,000 MPs with the resolution of 512x384 (horizontal) or 384x512 (vertical).
 3. A *image_1024* directory containing 2,000 MPs with the resolution of 1024x768 (horizontal) or 768x1024 (vertical).
 
