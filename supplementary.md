@@ -63,12 +63,8 @@ MMP-2k dataset contains:
 | ...        | ...                 | ...                 | ... | ... | ...                   | *  |* | *|
 | 2000.jpg    |     *           |      *          | --- | --- |          *         | *  |* |* |
                   
-### Structure of MMP-2k.json file
-
-
-
 ---
-## Supplementary Detail
+
 
 
 
