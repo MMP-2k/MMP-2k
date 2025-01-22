@@ -30,13 +30,63 @@ This paper is submitted to [IEEE International Conference on Image Processing, I
 
 ## 📖 **Showcases**
 ### FOR MORE DETAIL REGARDING MMP-2k DATABASE, PLEASE REDFER TO [HUGGINGFACE](https://huggingface.co/datasets/MMP-2k/MMP-2k)
-![A sample image from MMP-2k](./SampleImage/sample1.png "Optional Title")
-![Image 1](./SampleImage/1.jpg)
-![Image 2](./SampleImage/2.jpg)
-![Image 3](./SampleImage/3.jpg)
-![Image 4](./SampleImage/4.jpg)
-![Image 5](./SampleImage/906.jpg)
-
+<table>
+  <tr>
+    <td>
+      <img src="./SampleImage/1111.jpg" alt="Image 1" width="100%" />
+    </td>
+    <td style="padding-left: 20px; vertical-align: top;">
+      <p><b>MOS:</b> <span style="color: red;">88.24</span></p>
+      <p>The image is <span style="color: green;">excellent</span> in quality.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./SampleImage/973.jpg" alt="Image 2" width="100%" />
+    </td>
+    <td style="padding-left: 20px; vertical-align: top;">
+      <p><b>MOS:</b> <span style="color: orange;">66.18</span></p>
+      <p>The image is <span style="color: green;">good</span> in quality.</p>
+      <p>There is <span style="color: blue;">mild out of focus</span> in the center.</p>
+      <p>There is <span style="color: purple;">mild overexposure</span> in the entire image.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./SampleImage/3.jpg" alt="Image 3" width="100%" />
+    </td>
+    <td style="padding-left: 20px; vertical-align: top;">
+      <p><b>MOS:</b> <span style="color: orange;">54.41</span></p>
+      <p>The image is <span style="color: green;">fair</span> in quality.</p>
+      <p>There is <span style="color: purple;">mild underexposure</span> in the entire image.</p>
+      <p>There is <span style="color: blue;">medium out of focus</span> in the center bottom.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./SampleImage/1597.jpg" alt="Image 4" width="100%" />
+    </td>
+    <td style="padding-left: 20px; vertical-align: top;">
+      <p><b>MOS:</b> <span style="color: red;">35.29</span></p>
+      <p>The image is <span style="color: orange;">poor</span> in quality.</p>
+      <p>There is <span style="color: blue;">mild motion blur</span> in the center left.</p>
+      <p>There is <span style="color: purple;">mild out of focus</span> in the center.</p>
+      <p>There is <span style="color: blue;">medium motion blur</span> in the center.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="./SampleImage/906.jpg" alt="Image 5" width="100%" />
+    </td>
+    <td style="padding-left: 20px; vertical-align: top;">
+      <p><b>MOS:</b> <span style="color: red;">1.47</span></p>
+      <p>The image is <span style="color: red;">bad</span> in quality.</p>
+      <p>There is <span style="color: purple;">strong noise and artifact</span> in the entire image.</p>
+      <p>There is <span style="color: purple;">mild underexposure</span> in the entire image.</p>
+      <p>There is <span style="color: red;">strong out of focus</span> in the entire image.</p>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🚀 **Download**
