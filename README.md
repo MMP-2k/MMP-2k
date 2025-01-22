@@ -31,6 +31,12 @@ This paper is submitted to [IEEE International Conference on Image Processing, I
 ## 📖 **Showcases**
 ### FOR MORE DETAIL REGARDING MMP-2k DATABASE, PLEASE REDFER TO [HUGGINGFACE](https://huggingface.co/datasets/MMP-2k/MMP-2k)
 ![A sample image from MMP-2k](./SampleImage/sample1.png "Optional Title")
+![Image 1](./SampleImage/1.jpg)
+![Image 2](./SampleImage/2.jpg)
+![Image 3](./SampleImage/3.jpg)
+![Image 4](./SampleImage/4.jpg)
+![Image 5](./SampleImage/906.jpg)
+
 ---
 
 ## 🚀 **Download**
